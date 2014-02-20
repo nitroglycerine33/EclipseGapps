@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="setting_toggleStyles" translatable="false">
+        <item>@string/toggles_style_tile</item>
+        <item>@string/toggles_style_traditional</item>
+        <item>@string/toggles_style_scrollable</item>
+    </string-array>
+    <string-array name="setting_toggleStylesValues" translatable="false">
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="setting_togglesPerRow" translatable="false">
+        <item>@string/toggles_per_row_three</item>
+        <item>@string/toggles_per_row_four</item>
+        <item>@string/toggles_per_row_five</item>
+    </string-array>
+    <string-array name="setting_togglesPerRowValues" translatable="false">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="choose_toggle_side_entries" translatable="false">
+        <item>@string/right</item>
+        <item>@string/left</item>
+    </string-array>
+    <string-array name="choose_toggle_side_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="entries_status_bar_network_stats_update" translatable="false">
+        <item>@string/time_0_5_seconds</item>
+        <item>@string/time_1_second</item>
+        <item>@string/time_2_seconds</item>
+        <item>@string/time_5_seconds</item>
+    </string-array>
+
+    <string-array name="values_status_bar_network_stats_update" translatable="false">
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>5000</item>
+    </string-array>
+
+    <!-- clock stuff -->
+    <string-array name="statusbar_clock_styleEntries" translatable="false">
+        <item>@string/right_clock</item>
+        <item>@string/center_clock</item>
+        <item>@string/no_clock</item>
+    </string-array>
+    <string-array name="statusbar_clock_styleValues" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="statusbar_clock_am_pm_styleEntries" translatable="false">
+        <item>@string/dont_show</item>
+        <item>@string/small_am_pm</item>
+        <item>@string/regular_am_pm</item>
+    </string-array>
+    <string-array name="statusbar_clock_am_pm_styleValues" translatable="false">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="statusbar_clock_weekdayEntries" translatable="false">
+        <item>@string/dont_show</item>
+        <item>@string/small_weekday</item>
+        <item>@string/regular_weekday</item>
+    </string-array>
+    <string-array name="statusbar_clock_weekdayValues" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>

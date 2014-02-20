@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:eclipse="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/scrollView">
+
+    <LinearLayout
+            style="@style/settingsFragmentStyle">
+
+	<ImageView
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content"
+    		android:adjustViewBounds="true"
+    		android:src="@drawable/inverted_gmail" />
+
+        <com.eclipse.gapps.settings.UrlSetting
+                android:id="@+id/inverted_gmail"
+                android:title="@string/inverted_gmail"
+                android:summary="@string/inverted_gmail_summary"
+                eclipse:url="@string/url_inverted_gmail"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+        <com.eclipse.gapps.settings.UrlSetting
+                android:id="@+id/normal_gmail"
+                android:title="@string/normal_gmail"
+                android:summary="@string/normal_gmail_summary"
+                eclipse:url="@string/url_normal_gmail"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+    </LinearLayout>
+</ScrollView>

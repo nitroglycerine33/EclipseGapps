@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:eclipse="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/scrollView">
+
+    <LinearLayout
+            style="@style/settingsFragmentStyle">
+
+	<ImageView
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content"
+    		android:adjustViewBounds="true"
+    		android:src="@drawable/inverted_youtube" />
+
+        <com.eclipse.gapps.settings.UrlSetting
+                android:id="@+id/inverted_youtube"
+                android:title="@string/inverted_youtube"
+                android:summary="@string/inverted_youtube_summary"
+                eclipse:url="@string/url_inverted_youtube"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+        <com.eclipse.gapps.settings.UrlSetting
+                android:id="@+id/aosp_normal_youtube"
+                android:title="@string/normal_youtube"
+                android:summary="@string/normal_youtube_summary"
+                eclipse:url="@string/url_normal_youtube"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:eclipse="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/scrollView">
+
+    <LinearLayout
+            style="@style/settingsFragmentStyle">
+
+	<ImageView
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content"
+    		android:adjustViewBounds="true"
+    		android:src="@drawable/inverted_music" />
+
+        <com.eclipse.gapps.settings.UrlSetting
+                android:id="@+id/inverted_playmusic"
+                android:title="@string/inverted_playmusic"
+                android:summary="@string/inverted_playmusic_summary"
+                eclipse:url="@string/url_inverted_playmusic"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+        <com.eclipse.gapps.settings.UrlSetting
+                android:id="@+id/normal_playmusic"
+                android:title="@string/normal_playmusic"
+                android:summary="@string/normal_playmusic_summary"
+                eclipse:url="@string/url_normal_playmusic"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+    </LinearLayout>
+</ScrollView>

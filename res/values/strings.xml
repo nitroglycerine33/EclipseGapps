@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eclipse Gapps</string>
+    <string name="gapps">Eclipse Gapps</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Header Strings -->
+    <string name="category_about">About</string>
+    <string name="category_hangouts">Hangouts</string>
+    <string name="category_gmail">Gmail</string>
+    <string name="category_main_gapps">Main</string>
+    <string name="category_googlenow">Google Now</string>
+    <string name="category_googleplus">Google+</string>
+    <string name="category_playmusic">Play Music</string>
+    <string name="category_youtube">YouTube</string>
+    <string name="category_playstore">Play Store</string>
+    <string name="category_aosp">AOSP Gapps</string>
+
+    <!-- About -->
+    <string name="unlock_xcontrol">X-Control Pro</string>
+    <string name="unlock_xcontrol_summary">Support Eclipse and go pro today!</string>
+    <string name="url_unlock_xcontrol">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=35</string>
+    <string name="eclipse">Elemental X Designs</string>
+    <string name="eclipse_website_title">Eclipse website</string>
+    <string name="eclipse_website_summary">www.elementalxdesigns.com</string>
+    <string name="about_eclipse">About Eclipse</string>
+    <string name="about_eclipse_summary">@null</string>
+    <string name="donate">Donate</string>
+    <string name="donate_eclipse_summary">Support Elemental X Designs</string>
+    <string name="eclipse_twitter_title">Twitter</string>
+    <string name="eclipse_twitter_summary">Follow me!</string>
+    <string name="url_twitter">https://twitter.com/nitroglycerin33</string>
+    <string name="donate_eclipse">http://www.elementalxdesigns.com/eclipse/misc.php?do=donate</string>
+    <string name="url_eclipse_donate">http://www.elementalxdesigns.com/eclipse/misc.php?do=donate</string>
+    <string name="github_eclipse">https://github.com/nitroglycerine33</string>
+    <string name="url_eclipse">http://www.elementalxdesigns.com/eclipse/showthread.php?2011-APPS-Inverted-Play-Store-Gmail-Hangouts-Music-YouTube-Google-Now-G-1-14</string>
+
+    <!-- AOSP Gapps -->
+    <string name="inverted_gapps">Dark Google Apps</string>
+    <string name="inverted_gapps_summary">Inverted Google Apps for AOSP</string>
+    <string name="url_inverted_gapps">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=35</string>
+    <string name="normal_gapps">Normal Google Apps</string>
+    <string name="normal_gapps_summary">Light Google Apps for AOSP</string>
+    <string name="url_normal_gapps">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=35</string>
+
+    <!-- Gmail -->
+    <string name="inverted_gmail">Dark Gmail</string>
+    <string name="inverted_gmail_summary">Inverted Gmail application</string>
+    <string name="url_inverted_gmail">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=37</string>
+    <string name="normal_gmail">Normal Gmail</string>
+    <string name="normal_gmail_summary">Light Gmail application</string>
+    <string name="url_normal_gmail">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=38</string>
+
+    <!-- Google Now -->
+    <string name="inverted_googlenow">Dark Google Now</string>
+    <string name="inverted_googlenow_summary">Inverted Google Now application</string>
+    <string name="url_inverted_googlenow">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=40</string>
+    <string name="normal_googlenow">Normal Google Now</string>
+    <string name="normal_googlenow_summary">Light Google Now application</string>
+    <string name="url_normal_googlenow">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=42</string>
+    <string name="inverted_googlenowkk">Dark Google Now - KitKat</string>
+    <string name="inverted_googlenowkk_summary">Inverted Google Now application for KitKat</string>
+    <string name="url_inverted_googlenowkk">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=39</string>
+    <string name="normal_googlenowkk">Normal Google Now KitKat</string>
+    <string name="normal_googlenowkk_summary">Light Google Now application for KitKat</string>
+    <string name="url_normal_googlenowkk">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=41</string>
+
+    <!-- Google Plus -->
+    <string name="inverted_googleplus">Dark Google+</string>
+    <string name="inverted_googleplus_summary">Inverted Google+ application</string>
+    <string name="url_inverted_googleplus">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=44</string>
+    <string name="normal_googleplus">Normal Google+</string>
+    <string name="normal_googleplus_summary">Light Google+ application</string>
+    <string name="url_normal_googleplus">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=46</string>
+    <string name="inverted_googlepluskk">Dark Google+ - KitKat</string>
+    <string name="inverted_googlepluskk_summary">Inverted Google+ application for KitKat</string>
+    <string name="url_inverted_googlepluskk">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=43</string>
+    <string name="normal_googlepluskk">Normal Google+ KitKat</string>
+    <string name="normal_googlepluskk_summary">Light Google+ application for KitKat</string>
+    <string name="url_normal_googlepluskk">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=45</string>
+
+    <!-- Hangouts -->
+    <string name="inverted_hangouts">Dark Hangouts</string>
+    <string name="inverted_hangouts_summary">Inverted Hangouts application</string>
+    <string name="url_inverted_hangouts">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=47</string>
+    <string name="normal_hangouts">Normal Hangouts</string>
+    <string name="normal_hangouts_summary">Light Hangouts application</string>
+    <string name="url_normal_hangouts">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=48</string>
+
+    <!-- Play Music -->
+    <string name="inverted_playmusic">Dark Play Music</string>
+    <string name="inverted_playmusic_summary">Inverted Play Music application</string>
+    <string name="url_inverted_playmusic">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=49</string>
+    <string name="normal_playmusic">Normal Play Music</string>
+    <string name="normal_playmusic_summary">Light Play Music application</string>
+    <string name="url_normal_playmusic">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=50</string>
+
+    <!-- Play Store -->
+    <string name="inverted_playstore">Dark Play Store</string>
+    <string name="inverted_playstore_summary">Inverted Play Store application</string>
+    <string name="url_inverted_playstore">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=52</string>
+    <string name="normal_playstore">Normal Play Store</string>
+    <string name="normal_playstore_summary">Light Play Store application</string>
+    <string name="url_normal_playstore">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=54</string>
+    <string name="inverted_playstorekk">Dark Play Store - KitKat</string>
+    <string name="inverted_playstorekk_summary">Inverted Play Store application for KitKat</string>
+    <string name="url_inverted_playstorekk">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=51</string>
+    <string name="normal_playstorekk">Normal Play Store - KitKat</string>
+    <string name="normal_playstorekk_summary">Light Play Store application for KitKat</string>
+    <string name="url_normal_playstorekk">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=53</string>
+
+    <!-- YouTube -->
+    <string name="inverted_youtube">Dark YouTube</string>
+    <string name="inverted_youtube_summary">Inverted YouTube application</string>
+    <string name="url_inverted_youtube">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=35</string>
+    <string name="normal_youtube">Normal YouTube</string>
+    <string name="normal_youtube_summary">Light YouTube application</string>
+    <string name="url_normal_youtube">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=35</string>
+
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Color picker</string>
+    <string name="press_color_to_apply">Press on color to apply</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
+    <string name="hex">Hex:</string>
+    <string name="hex_hint">#FF000000</string>
+    <string name="set">Set</string>
+    <string name="default_color">Default</string>
+
+    <!-- Time -->
+    <string name="time_0_5_seconds">.5 seconds</string>
+    <string name="time_1_second">1 second</string>
+    <string name="time_2_seconds">2 seconds</string>
+    <string name="time_5_seconds">5 seconds</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="reset">Reset</string>
+    <string name="cancel">Cancel</string>
+    <string name="center">Centered</string>
+    <string name="top">Top</string>
+    <string name="bottom">Bottom</string>
+    <string name="ram_bar_title">Recents RAM bar</string>
+    <string name="ram_bar_summary">Shows RAM usage in the recent apps window</string>
+
+    <!-- Statusbar -->
+    <string name="category_statusbar_notification">Notifications</string>
+    <string name="category_statusbar_battery">Battery</string>
+    <string name="category_statusbar_clock">Clock</string>
+
+    <string name="brightness_slider_title">Statusbar brightness slider</string>
+    <string name="brightness_slider_summary">Slide finger across statusbar to change brightness. Disabled when auto-brightness is on.</string>
+    <string name="notification_count_title">Show notification count</string>
+    <string name="notification_count_summary">Display number of pending notifications in the statusbar</string>
+
+    <string name="statusbar_clock_am_pm_style_title">AM/PM style</string>
+    <string name="statusbar_clock_am_pm_style_summary">How is AM/PM displayed</string>
+    <string name="statusbar_clock_style_title">Clock style</string>
+    <string name="statusbar_clock_style_summary">Clock position in statusbar</string>
+    <string name="statusbar_clock_weekday_title">Day of the week</string>
+    <string name="statusbar_clock_weekday_summary">Display day of the week front of clock</string>
+    <string name="right_clock">Right clock</string>
+    <string name="center_clock">Center clock</string>
+    <string name="no_clock">No clock</string>
+    <string name="dont_show">Don\'t show</string>
+    <string name="small_am_pm">Small AM/PM</string>
+    <string name="regular_am_pm">Regular AM/PM</string>
+    <string name="small_weekday">Small weekday</string>
+    <string name="regular_weekday">Regular weekday</string>
+    <string name="statusbar_clock_color_title">Clock color</string>
+    <string name="statusbar_clock_color_summary">Clock color displayed in statusbar</string>
+
+    <string name="battery_percentage_indicator_title">Show battery % indicator</string>
+    <string name="battery_percentage_indicator_summary">Show battery percentage indicator front of battery icon</string>
+    <string name="battery_percentage_indicator_plugged_title">Indicate charging</string>
+    <string name="battery_percentage_indicator_plugged_summary">Show battery percentage indicator in different color during charging</string>
+    <string name="hide_battery_icon_title">Hide battery icon</string>
+    <string name="hide_battery_icon_summary">Completly hide battery icon from statusbar</string>
+
+    <string name="category_signalbars">Signal Bars</string>
+    <string name="statusbar_signal_text_title">Show signal text</string>
+    <string name="statusbar_signal_text_summary">Show signal with dBm</string>
+    <string name="statusbar_hide_signal_bars_title">Hide Signal Bars</string>
+    <string name="statusbar_hide_signal_bars_summary">Ability to hide the signal bars</string>
+
+    <string name="status_bar_network_title">Network traffic</string>
+    <string name="status_bar_show_network_stats_title">Show network speeds</string>
+    <string name="status_bar_show_network_stats_summary">Show network speeds in statusbar</string>
+    <string name="status_bar_network_stats_update_title">Update frequency</string>
+    <string name="status_bar_network_stats_update_summary">How often is indicator updated</string>
+    <string name="status_bar_network_stats_color_title">Network speeds text color</string>
+    <string name="status_bar_network_stats_color_summary">Network speeds text color in statusbar</string>
+
+
+    <!-- Toggles -->
+    <string name="title_toggles">Toggles</string>
+    <string name="toggles_style_tile">Tiles</string>
+    <string name="toggles_style_traditional">Traditional pulldown</string>
+    <string name="toggles_style_scrollable">Traditional scrollable</string>
+    <string name="toggles_display_close">Close</string>
+
+    <string name="toggles_order_title">Toggle order</string>
+    <string name="toggles_order_summary">Choose the order in which your toggles are displayed</string>
+
+    <string name="toggle_dialog_arrange_title">Toggle setup</string>
+    <string name="toggle_dialog_add_toggles">Add a toggle</string>
+    <string name="toggle_swap_handle_side">Drag handle on right</string>
+    <string name="toggles_style_title">Toggle style</string>
+    <string name="toggles_per_row_title">Toggles per row</string>
+    <string name="toggles_per_row_three">3</string>
+    <string name="toggles_per_row_four">4</string>
+    <string name="toggles_per_row_five">5</string>
+    <string name="add_toggles">Add toggle</string>
+
+    <string name="toggles_enable_fasttoggle_title">Enable fast toggle</string>
+    <string name="toggles_enable_fasttoggle_summary">Overrides default behavior</string>
+    <string name="toggles_choose_fasttoggle_side_title">Choose fast toggle side</string>
+    <string name="toggles_choose_fasttoggle_side_summary">Select the side that triggers the fast toggle</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="toggles_swipe_to_switch_title">Swipe to switch</string>
+    <string name="toggles_swipe_to_switch_summary">Swipe to switch between notifications and Quick Settings</string>
+    <string name="toggle_tab_arrange">Toggle setup</string>
+    <string name="toggles_tab_settings">Configure</string>
+    <string name="toggles_arrange_instructions">Rearrange by dragging by the handle on the right. Remove by swiping.</string>
+
+    <string name="toggles_collapse_generic_title">Collapse shade on toggle click</string>
+    <string name="toggles_collapse_generic_summary">Close shade on all generic toggle actions</string>
+    <string name="toggles_vibrate_title">Vibrate on toggle click</string>
+    <string name="toggles_vibrate_summary">Vibrate on all generic toggle actions</string>
+
+    <string name="toggle_favcontact_title">Favorite contact</string>
+    <string name="toggle_favcontact_summary">Choose your favorite contact</string>
+
+</resources>

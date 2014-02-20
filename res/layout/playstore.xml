@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:eclipse="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/scrollView">
+
+    <LinearLayout
+            style="@style/settingsFragmentStyle">
+
+	<ImageView
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content"
+    		android:adjustViewBounds="true"
+    		android:src="@drawable/inverted_playstore" />
+
+        <com.eclipse.gapps.settings.UrlSetting
+                android:id="@+id/inverted_playstore"
+                android:title="@string/inverted_playstore"
+                android:summary="@string/inverted_playstore_summary"
+                eclipse:url="@string/url_inverted_playstore"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+        <com.eclipse.gapps.settings.UrlSetting
+                android:id="@+id/inverted_playstorekk"
+                android:title="@string/inverted_playstorekk"
+                android:summary="@string/inverted_playstorekk_summary"
+                eclipse:url="@string/url_inverted_playstorekk"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+        <com.eclipse.gapps.settings.UrlSetting
+                android:id="@+id/normal_playstore"
+                android:title="@string/normal_playstore"
+                android:summary="@string/normal_playstore_summary"
+                eclipse:url="@string/url_normal_playstore"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+        <com.eclipse.gapps.settings.UrlSetting
+                android:id="@+id/normal_playstorekk"
+                android:title="@string/normal_playstorekk"
+                android:summary="@string/normal_playstorekk_summary"
+                eclipse:url="@string/url_normal_playstorekk"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+    </LinearLayout>
+</ScrollView>
