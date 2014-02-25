@@ -90,9 +90,9 @@
     <string name="url_normal_hangouts">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=48</string>
 
     <!-- Play Music -->
-    <string name="inverted_playmusic">Dark Play Music</string>
+    <string name="inverted_playmusic">Dark Play Music (Updated 2/25!)</string>
     <string name="inverted_playmusic_summary">Inverted Play Music application</string>
-    <string name="url_inverted_playmusic">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=49</string>
+    <string name="url_inverted_playmusic">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=57</string>
     <string name="normal_playmusic">Normal Play Music</string>
     <string name="normal_playmusic_summary">Light Play Music application</string>
     <string name="url_normal_playmusic">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=50</string>
@@ -112,12 +112,12 @@
     <string name="url_normal_playstorekk">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=53</string>
 
     <!-- YouTube -->
-    <string name="inverted_youtube">Dark YouTube</string>
+    <string name="inverted_youtube">Dark YouTube (New 2/25!)</string>
     <string name="inverted_youtube_summary">Inverted YouTube application</string>
-    <string name="url_inverted_youtube">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=35</string>
+    <string name="url_inverted_youtube">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=58</string>
     <string name="normal_youtube">Normal YouTube</string>
     <string name="normal_youtube_summary">Light YouTube application</string>
-    <string name="url_normal_youtube">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=35</string>
+    <string name="url_normal_youtube">http://www.elementalxdesigns.com/nitroglycerine33/click.php?id=59</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color picker</string>

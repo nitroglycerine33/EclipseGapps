@@ -3,24 +3,24 @@
 <resources>
     <string-array name="navigation_drawer_entries">
         <item>@string/category_about</item>
-<!--        <item>@string/category_aosp</item> -->
+        <item>@string/category_aosp</item>
         <item>@string/category_gmail</item>
         <item>@string/category_googlenow</item>
         <item>@string/category_googleplus</item>
         <item>@string/category_hangouts</item>
         <item>@string/category_playmusic</item>
         <item>@string/category_playstore</item>
-<!--        <item>@string/category_youtube</item> -->
+        <item>@string/category_youtube</item>
     </string-array>
     <string-array name="navigation_drawer_icons">
         <item>@drawable/ic_settings_about</item>
-<!--        <item>@drawable/ic_settings_gapps</item> -->
+        <item>@drawable/ic_settings_gapps</item>
         <item>@drawable/ic_settings_gmail</item>
         <item>@drawable/ic_settings_googlenow</item>
         <item>@drawable/ic_settings_googleplus</item>
         <item>@drawable/ic_settings_hangouts</item>
         <item>@drawable/ic_settings_playmusic</item>
         <item>@drawable/ic_settings_playstore</item>
-<!--        <item>@drawable/ic_settings_youtube</item> -->
+        <item>@drawable/ic_settings_youtube</item>
     </string-array>
 </resources>
